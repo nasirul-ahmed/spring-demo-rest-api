@@ -7,7 +7,7 @@ import com.restapi.restapi.entity.Movie;
 import com.restapi.restapi.services.MovieService;
 
 @RestController
-public class NotesController {
+public class MoviesController {
 
 	@Autowired
 	private MovieService movieService;
